@@ -64,6 +64,3 @@ target/
 
 #Image files
 *.png
-
-#Privacy
-Data/2019-06-03_event_raw.csv
