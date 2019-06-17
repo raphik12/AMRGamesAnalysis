@@ -64,3 +64,4 @@ target/
 
 #Image files
 *.png
+*.svg
